@@ -19,7 +19,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/gokulggr">
+<a href="https://www.linkedin.com/in/gokulggr">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://github.com/Gokul-Automate">
